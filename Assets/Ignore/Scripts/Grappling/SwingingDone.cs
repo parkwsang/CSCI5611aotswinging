@@ -29,7 +29,7 @@ public class SwingingDone : MonoBehaviour
     public Transform predictionPoint;
 
     [Header("Input")]
-    public KeyCode swingKey = KeyCode.Mouse0;
+    public KeyCode swingKey = KeyCode.Mouse1;
 
 
     private void Update()
